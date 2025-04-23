@@ -2,9 +2,7 @@
 
 ---
 
-<table>
-<tr>
-<td>
+<div align="center">
 
 ### 👋 Всем привет, я Дима!
 
@@ -15,11 +13,27 @@
 но уже активно заливаю проекты на тему  
 **информационной безопасности** 🛡️💻
 
-</td>
-<td align="right">
+</div>
 
-<img src="https://media.tenor.com/PXK1kgmXTuIAAAAC/angry-programmer-computer.gif" width="300"/>
+---
 
-</td>
-</tr>
-</table>
+## 🛠 Навыки
+
+### 🔧 Программное обеспечение:
+
+- 🐳 **Docker**
+- 🧠 **SQL / TShark**
+- 🔍 **Wireshark**, **VirusTotal**, **ANY.RUN**
+- 🕵️‍♂️ **Hunter.io**, **OpenCTI**
+- 🧬 **YARA**, **Snort**
+- 🎣 **PhishTool**
+- 📊 **ELK**, **Splunk**
+
+---
+
+### 🌐 Сети:
+
+- 🔗 **TCP / UDP / IP**
+- 🌐 **DNS / DHCP**
+- 🧩 **OSI**, **Active Directory (AD)**
+- 🔒 **TLS / SSL**
