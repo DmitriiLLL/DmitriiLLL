@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Верхнее изображение -->
+<img src="https://raw.githubusercontent.com/username/repository/main/path/to/image.png" width="100%" />
 
-<!--
-**DmitriiLLL/DmitriiLLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 Всем привет, я Дима!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я учусь в **Финансовом университете при Правительстве РФ**  
+по направлению **Информационная безопасность**.
+
+Не так давно начал вести свой GitHub,  
+но уже активно заливаю проекты на тему  
+**информационной безопасности** 🛡️💻
